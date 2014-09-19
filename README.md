@@ -1,10 +1,9 @@
 README for run_analysis.R
 ==========================
-
 Written by Nathan Wrana as part of the course project for Getting and Clean Data
-==========================
 
 
+=========================
 The package includes the following files
 ==========================
 run_analysis.R
