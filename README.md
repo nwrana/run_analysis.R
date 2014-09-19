@@ -1,5 +1,5 @@
 # README
-Written by Nathan Wrana as part of the course project for Getting and Clean Data
+Written by Nathan Wrana as part of the course project for Getting and Cleaning Data
 
 ##The package includes the following files
 * run_analysis.R
