@@ -1,4 +1,4 @@
-# README for run_analysis.R
+# README
 ##Written by Nathan Wrana as part of the course project for Getting and Clean Data
 
 ##The package includes the following files
@@ -8,7 +8,7 @@
 ##Notes on run_analysis.R
 The purpose of the run_analysis.R script is to clean up a raw dataset downloaded from the Human Activity Recognition Using
 Smartphones experiment. The resulting cleand and tidy dataset was achieved using information tought in class as well as online
-searches from blogs abd websites such as stackoverflow. The final clean dataset has been assigned the variable *mergedData*
+searches from blogs abd websites such as stackoverflow. The final clean dataset has been assigned the variable *_mergedData_*
 
 The run_analysis.R script runs by first creating a folder on your home directory labelled "GetCleanData_Project". The zip file is downloaded to this folder and extracted using the unzip() function. The desired files in the zipped folder are read into R,
 appropriate columns names are assigned, and finally the entire dataset is merged using the cbind() function
